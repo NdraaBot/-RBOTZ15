@@ -1,6 +1,5 @@
 // NOTES : JGN DI JUAL + THX DI GANTI
 // BY RIMURUBOTZ
-// 3% GW ENC BUAT MENGHINDARI JUAL BELI
 const {
     WAConnection,
     MessageType,
